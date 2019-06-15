@@ -17,3 +17,4 @@ def twoSum2(nums, target):
 
 print twoSum([2, 3, 4, 5, 6], 10)
 print twoSum2([2, 3, 4, 5, 6], 10)
+print twoSum2([2, 7, 11, 15], 9)
